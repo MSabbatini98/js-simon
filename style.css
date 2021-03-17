@@ -1,0 +1,23 @@
+main .box {
+    width: 50%;
+    margin: auto;
+    background-color: fuchsia;
+    color: darkmagenta;
+    border: purple 3px dotted;
+    border-radius: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 30px;
+}
+main p {
+    text-transform: capitalize;
+}
+
+main h1 {
+    color: purple;
+    font-size: 28px;
+    font-weight: bolder;
+
+
+}
